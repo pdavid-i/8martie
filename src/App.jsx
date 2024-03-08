@@ -57,7 +57,7 @@ function App() {
         <h2 class={isMobile? "m100" : ""}> femeie frumoasa</h2>
         <h2 class={isMobile? "m300" : "m100"}>si desteapta</h2>
         <h2 class={isMobile? "m500" : "m300"}>si niste solduri pfai</h2>
-        <h2 class={isMobile? "m1100" : "m300"}>O primavara minunata xoxo</h2>
+        <h2 class={isMobile? "m500" : "m300"}>O primavara minunata xoxo</h2>
         {isMobile? <h2 class="m200">P.S. Vezi ca tot asta primesti si de ziua ta</h2> : <></>}
         </ParallaxLayer>
       </Parallax>
