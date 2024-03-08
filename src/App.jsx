@@ -46,7 +46,7 @@ function App() {
           speed={0.05}
           onClick={() => ref.current.scrollTo(3)}
         >
-          <h2>La multean Bia!!</h2>
+          <h2>La multi ani de 8 martie!!</h2>
         </ParallaxLayer>
 
         <ParallaxLayer
