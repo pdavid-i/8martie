@@ -7,8 +7,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/8martie/tabulet" element={<Tabuleh/>} />
-        <Route path="/8martie/:personName" element={<Wish/>} />
+        <Route path="/8martie" element={<Tabuleh/>} />
         {/* Add other routes here */}
       </Routes>
     </Router>
